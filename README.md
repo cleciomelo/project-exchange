@@ -15,7 +15,9 @@ Procure pelo atributo por nome * **msExchHideFromAddressLists** e defina como Ve
 
 <img width="1024" height="537" alt="image" src="https://github.com/user-attachments/assets/172522e1-3534-4a2e-a75a-74bfd41229f8" />
 
-Depois clique em Aplicar para salvar.
+
+* **Depois clique em Aplicar para salvar**.
+
 
 <img width="427" height="567" alt="image" src="https://github.com/user-attachments/assets/9b55407d-10c0-4c28-9a0c-bde2ba6db66f" />
 
