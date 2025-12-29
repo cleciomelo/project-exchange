@@ -18,3 +18,12 @@ Procure pelo atributo por nome msExchHideFromAddressLists e defina como Verdadei
 Depois clique em Aplicar para salvar.
 
 <img width="427" height="567" alt="image" src="https://github.com/user-attachments/assets/9b55407d-10c0-4c28-9a0c-bde2ba6db66f" />
+
+## 🛠️ Aplicação
+Windows Server 2012 R2
+
+## ✒️ Autor
+* **Analista de TI** 
+* **Clécio Melo** 
+
+
